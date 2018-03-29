@@ -1,0 +1,22 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "node homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cclohisy/liri.git"
+  },
+  "author": "Cecilia Clohisy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cclohisy/liri/issues"
+  },
+  "homepage": "https://github.com/cclohisy/liri#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
