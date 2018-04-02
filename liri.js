@@ -30,10 +30,21 @@ function myTweets() {
     client.get("statuses/user_timeline", params, function (error, tweets, response) {
         if (!error) {
             var tweetArray = tweets
+            console.log("")
             console.log("\n----- My Last 20 Tweets -----")
+            fs.appendFile("log.txt", "\nMy Last 20 Tweets", function (err) {
+                if (err) {
+                    console.log(err);
+                }
+            })
             for (var i = 0; i < tweetArray.length; i++) {
                 console.log("Tweet " + (i + 1) + ": " + tweets[i].text + "\n Created on " + tweets[i].created_at)
-
+                fs.appendFile("log.txt", "\nTweet " + (i + 1) + ": " + tweets[i].text + "\n Created on " + tweets[i].created_at,
+                    function (err) {
+                        if (err) {
+                            console.log(err);
+                        }
+                    })
             }
             console.log("\n")
         }
@@ -71,7 +82,7 @@ function movieSearch() {
                 "Actors: " + JSON.parse(body).Actors + ", " + "IMDB rating " + ratings[0].Value + ", " + ratings[1].Source + " rating " + ratings[1].Value,
                 function (err) {
                     if (err) {
-                        console.log(err);
+                        console.log("Data could not be logged" + err);
                     }
                     else {
                         console.log("\nMovie data successfully logged!")
@@ -155,60 +166,35 @@ function songSearch() {
 
     })
 }
-// spotify.search({ type: 'track', query: input, limit: 1 }, function (err, response) {
-//     if (err) {
-//         spotify.request('https://api.spotify.com/v1/tracks/0hrBpAOgrt8RXigk83LLNE')
-//             .then(function (sign) {
-//                 //debugger;
-//                 console.log("----- Song was not found -----")
-//                 console.log("Check out this song from the Swedish pop sensation Ace of Base instead!")
-//                 console.log("\nSong title: " + sign.name)
-//                 console.log("Album: " + sign.album.name)
-//                 console.log("Artist: " + sign.album.artists[0].name)
-//                 console.log("Preview Song: " + sign.preview_url)
-//             }).catch(function (err) {
-//                 console.error('Error occurred: ' + err);
-//             })
-//     }
-//     {
-//         console.log("\n----- Song Information -----")
-//         console.log("Song title: " + response.tracks.items[0].name)
-//         console.log("Album: " + response.tracks.items[0].album.name)
-//         console.log("Artist: " + response.tracks.items[0].artists[0].name)
-//         // console.log(response.tracks.items[0].id)
-//         if (response.tracks.items[0].preview_url == null) {
-//             console.log("Preview Song: Preview not available for this song, sorry!")
-//         }
-//         else {
-//             console.log("Preview Song: " + response.tracks.items[0].preview_url)
-//         };
-//         console.log("i got here")
-//         fs.appendFile("log.txt", "\nSong title: " + response.tracks.items[0].name + ", " + "Album: " + response.tracks.items[0].album.name + ", "
-//             + "Artist: " + sign.album.artists[0].name + ", " + "Preview Song: " + sign.preview_url,
-//             function (err) {
-//                 if (err) {
-//                     console.log(err);
-//                 }
-//                 else {
-//                     console.log("Song data successfully logged!")
-//                     console.log("")
-//                 }
-//             })
-//     }
-// })
+
 
 switch (command) {
     // * `my-tweets`
     case "my-tweets":
+        fs.appendFile("log.txt", "\n" + "\nCommand chosen: " + command, function (err) {
+            if (err) {
+                console.log(err);
+            }
+        })
         myTweets()
         break
 
     case "spotify-this-song":
+        fs.appendFile("log.txt", "\n" + "\nCommand chosen: "+command+" "+input+"\nResults: ", function (err) {
+            if (err) {
+                console.log(err);
+            }
+        })
         songSearch()
         break
 
     // * `movie-this`
     case "movie-this":
+        fs.appendFile("log.txt", "\n" + "\nCommand chosen: "+command+" "+input+"\nResults: ", function (err) {
+            if (err) {
+                console.log(err);
+            }
+        })
         movieSearch()
         break
 
@@ -220,7 +206,20 @@ switch (command) {
                 console.log(err);
             }
             else {
-                console.log(data)
+                var textArr = data.split(",")               
+                command = textArr[0]
+                input = textArr[1]
+                switch(textArr[0]){
+                    case "spotify-this-song":
+                    fs.appendFile("log.txt", "\n" + "\nCommand chosen: "+command+" "+input+"\nResults: ", function (err) {
+                        if (err) {
+                            console.log(err);
+                        }
+                    })
+                    songSearch()
+                    break
+
+                }               
             }
         })
         break

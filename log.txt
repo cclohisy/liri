@@ -1,5 +1,35 @@
 
-Song title: Via Chicago, Album: Together At Last, Artist: Jeff Tweedy, Preview Song: https://p.scdn.co/mp3-preview/85180b553e9716d806736643bac97c2aa8a256e5?cid=791025b30b2240b0bffe39604df17de8
-Song title: Sober, Album: Melodrama, Artist: Lorde, Preview Song: null
-Song title: Scuse Me, Album: Coconut Oil, Artist: Lizzo, Preview Song: https://p.scdn.co/mp3-preview/36ff4652e2cc98a46460462b2052062455a6dca6?cid=791025b30b2240b0bffe39604df17de8
+Command chosen: my-tweets
+My Last 20 Tweets
+Tweet 1: practice tweet
+ Created on Thu Mar 29 22:48:37 +0000 2018
+Tweet 2: RT @guardian: Earthquake off Papua New Guinea sparks local tsunami warning https://t.co/6WK5h0ZfOH
+ Created on Thu Mar 29 22:28:36 +0000 2018
+
+Command chosen: movie-this
+Results: 
 Movie: The Royal Tenenbaums, Rating: R, Released in 2001, Language: English, Italian, Filmed in USA, Plot: A clan's estranged patriarch loses his home and learns that his ex-wife plans to remarry., Actors: Gene Hackman, Anjelica Huston, Ben Stiller, Gwyneth Paltrow, IMDB rating 7.6/10, Rotten Tomatoes rating 80%
+
+Command chosen: spotify-this-song sober+lorde
+Results: 
+Song title: Sober, Album: Melodrama, Artist: Lorde, Preview Song: null
+
+Command chosen: spotify-this-song scuse
+Results: 
+Song title: Scuse Me, Album: Coconut Oil, Artist: Lizzo, Preview Song: https://p.scdn.co/mp3-preview/36ff4652e2cc98a46460462b2052062455a6dca6?cid=791025b30b2240b0bffe39604df17de8
+
+Command chosen: spotify-this-song I Want it That Way
+Results: 
+Song title: I Want It That Way, Album: The Hits--Chapter One, Artist: Backstreet Boys, Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=791025b30b2240b0bffe39604df17de8
+
+Command chosen: spotify-this-song i+saw+you+close+your+eyes
+Results: 
+Song title: I Saw You Close Your Eyes, Album: I Saw You Close Your Eyes, Artist: Local Natives, Preview Song: null
+
+Command chosen: spotify-this-song "I Want it That Way"
+Results: 
+Song title: I Want It That Way, Album: The Hits--Chapter One, Artist: Backstreet Boys, Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=791025b30b2240b0bffe39604df17de8
+
+Command chosen: spotify-this-song "I Want it That Way"
+Results: 
+Song title: I Want It That Way, Album: The Hits--Chapter One, Artist: Backstreet Boys, Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=791025b30b2240b0bffe39604df17de8
