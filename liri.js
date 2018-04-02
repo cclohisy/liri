@@ -38,15 +38,15 @@ function myTweets() {
                 }
             })
             for (var i = 0; i < tweetArray.length; i++) {
-                console.log("Tweet " + (i + 1) + ": " + tweets[i].text + "\n Created on " + tweets[i].created_at)
-                fs.appendFile("log.txt", "\nTweet " + (i + 1) + ": " + tweets[i].text + "\n Created on " + tweets[i].created_at,
+                console.log("\nTweet " + (i + 1) + ": " + tweets[i].text + "\n Created on " + tweets[i].created_at)
+                fs.appendFile("log.txt", "\n\nTweet " + (i + 1) + ": " + tweets[i].text + "\n Created on " + tweets[i].created_at,
                     function (err) {
                         if (err) {
                             console.log(err);
                         }
                     })
             }
-            console.log("\n")
+            console.log("_________________________________________________________\n")
         }
     })
 }
@@ -171,7 +171,7 @@ function songSearch() {
 switch (command) {
     // * `my-tweets`
     case "my-tweets":
-        fs.appendFile("log.txt", "\n" + "\nCommand chosen: " + command, function (err) {
+        fs.appendFile("log.txt", "\n______________________________________"  + "\nCommand chosen: " + command, function (err) {
             if (err) {
                 console.log(err);
             }
@@ -180,7 +180,7 @@ switch (command) {
         break
 
     case "spotify-this-song":
-        fs.appendFile("log.txt", "\n" + "\nCommand chosen: "+command+" "+input+"\nResults: ", function (err) {
+        fs.appendFile("log.txt", "\n______________________________________"  + "\nCommand chosen: " + command + " " + input + "\nResults: ", function (err) {
             if (err) {
                 console.log(err);
             }
@@ -190,7 +190,7 @@ switch (command) {
 
     // * `movie-this`
     case "movie-this":
-        fs.appendFile("log.txt", "\n" + "\nCommand chosen: "+command+" "+input+"\nResults: ", function (err) {
+        fs.appendFile("log.txt", "\n______________________________________" + "\nCommand chosen: " + command + " " + input + "\nResults: ", function (err) {
             if (err) {
                 console.log(err);
             }
@@ -206,20 +206,30 @@ switch (command) {
                 console.log(err);
             }
             else {
-                var textArr = data.split(",")               
-                command = textArr[0]
-                input = textArr[1]
-                switch(textArr[0]){
+                var textArrayRandom = data.split("\n")
+                var randomMax = textArrayRandom.length
+                var randomIndex = (Math.floor(Math.random() * randomMax) + 1)
+                inputArrayRandom = textArrayRandom[randomIndex].split(",")
+                command = inputArrayRandom[0]
+                input = inputArrayRandom[1]
+                switch (inputArrayRandom[0]) {
                     case "spotify-this-song":
-                    fs.appendFile("log.txt", "\n" + "\nCommand chosen: "+command+" "+input+"\nResults: ", function (err) {
-                        if (err) {
-                            console.log(err);
-                        }
-                    })
-                    songSearch()
-                    break
-
-                }               
+                        fs.appendFile("log.txt", "\n______________________________________" + "\nCommand chosen: do-what-it-says \nResults:", function (err) {
+                            if (err) {
+                                console.log(err);
+                            }
+                        })
+                        songSearch()
+                        break
+                    case "movie-this":
+                        fs.appendFile("log.txt", "\n______________________________________" + "\nCommand chosen: do-what-it-says \nResults:", function (err) {
+                            if (err) {
+                                console.log(err);
+                            }
+                        })
+                        movieSearch()
+                        break
+                }
             }
         })
         break

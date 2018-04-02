@@ -1,35 +1,80 @@
 
-Command chosen: my-tweets
-My Last 20 Tweets
-Tweet 1: practice tweet
- Created on Thu Mar 29 22:48:37 +0000 2018
-Tweet 2: RT @guardian: Earthquake off Papua New Guinea sparks local tsunami warning https://t.co/6WK5h0ZfOH
- Created on Thu Mar 29 22:28:36 +0000 2018
-
-Command chosen: movie-this
-Results: 
-Movie: The Royal Tenenbaums, Rating: R, Released in 2001, Language: English, Italian, Filmed in USA, Plot: A clan's estranged patriarch loses his home and learns that his ex-wife plans to remarry., Actors: Gene Hackman, Anjelica Huston, Ben Stiller, Gwyneth Paltrow, IMDB rating 7.6/10, Rotten Tomatoes rating 80%
-
-Command chosen: spotify-this-song sober+lorde
-Results: 
-Song title: Sober, Album: Melodrama, Artist: Lorde, Preview Song: null
-
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Song title: Winter Song, Album: The Head and the Heart, Artist: The Head and the Heart, Preview Song: https://p.scdn.co/mp3-preview/8bf0f420948d46e6f4369aa8bdcad49730764996?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
 Command chosen: spotify-this-song scuse
 Results: 
 Song title: Scuse Me, Album: Coconut Oil, Artist: Lizzo, Preview Song: https://p.scdn.co/mp3-preview/36ff4652e2cc98a46460462b2052062455a6dca6?cid=791025b30b2240b0bffe39604df17de8
-
-Command chosen: spotify-this-song I Want it That Way
+______________________________________
+Command chosen: movie-this royal+tenenbaums
 Results: 
-Song title: I Want It That Way, Album: The Hits--Chapter One, Artist: Backstreet Boys, Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=791025b30b2240b0bffe39604df17de8
+Movie: The Royal Tenenbaums, Rating: R, Released in 2001, Language: English, Italian, Filmed in USA, Plot: A clan's estranged patriarch loses his home and learns that his ex-wife plans to remarry., Actors: Gene Hackman, Anjelica Huston, Ben Stiller, Gwyneth Paltrow, IMDB rating 7.6/10, Rotten Tomatoes rating 80%
+______________________________________
+Command chosen: my-tweets
+My Last 20 Tweets
 
-Command chosen: spotify-this-song i+saw+you+close+your+eyes
-Results: 
-Song title: I Saw You Close Your Eyes, Album: I Saw You Close Your Eyes, Artist: Local Natives, Preview Song: null
+Tweet 1: RT @StephenAtHome: I know Mueller’s busy but…
+https://t.co/0InGMZDM2M
+ Created on Mon Apr 02 21:49:46 +0000 2018
 
-Command chosen: spotify-this-song "I Want it That Way"
-Results: 
-Song title: I Want It That Way, Album: The Hits--Chapter One, Artist: Backstreet Boys, Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=791025b30b2240b0bffe39604df17de8
+Tweet 2: Homework is done! https://t.co/1sN9nLfPOZ
+ Created on Mon Apr 02 21:47:45 +0000 2018
 
-Command chosen: spotify-this-song "I Want it That Way"
-Results: 
-Song title: I Want It That Way, Album: The Hits--Chapter One, Artist: Backstreet Boys, Preview Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=791025b30b2240b0bffe39604df17de8
+Tweet 3: Hi Matt! https://t.co/4gpR8i0xPc
+ Created on Mon Apr 02 21:47:10 +0000 2018
+
+Tweet 4: Hi Rory! https://t.co/eKRla2rKwX
+ Created on Mon Apr 02 21:45:54 +0000 2018
+
+Tweet 5: RT @BBCBreaking: The junk is down. The remains of an eight-tonne defunct Chinese space lab have come down over the South Pacific https://t.…
+ Created on Mon Apr 02 21:18:56 +0000 2018
+
+Tweet 6: RT @nytimes: Kim Jong-un attended a K-pop concert. He clapped. He smiled. He even shook hands with members of the popular girl group Red Ve…
+ Created on Mon Apr 02 21:09:36 +0000 2018
+
+Tweet 7: RT @nytimes: A 77-year-old who owns an estimated 75 guns: "It'll go away. Like all the other times."
+A 17-year-old: "They’re looking for us…
+ Created on Mon Apr 02 19:51:22 +0000 2018
+
+Tweet 8: RT @guardian: I worked for Vote Leave. We need another referendum on Brexit’s terms | Dami Olatuyi https://t.co/aqjzyLoDzM
+ Created on Mon Apr 02 19:51:19 +0000 2018
+
+Tweet 9: RT @guardian: AggregateIQ: the obscure Canadian tech firm and the Brexit data riddle https://t.co/Omz1J9jr6l
+ Created on Mon Apr 02 19:38:00 +0000 2018
+
+Tweet 10: RT @nytimes: How $1 flows from Spotify to recording artists https://t.co/y8h5EYWH5v https://t.co/VcJ4hCtJEQ
+ Created on Mon Apr 02 19:37:44 +0000 2018
+
+Tweet 11: RT @BBCWorld: Inside the armoured green train used by Kim Jong-un on his trip to China https://t.co/C7djAnrGEC
+ Created on Mon Apr 02 19:20:03 +0000 2018
+
+Tweet 12: RT @guardian: The unstoppable rise of veganism: how a fringe movement went mainstream https://t.co/GklhH5lRPn
+ Created on Mon Apr 02 19:18:38 +0000 2018
+
+Tweet 13: RT @BadgerFootball: FUUUUUUUUM‼️⚾️🔥
+
+“I let it rip.” What grade we giving @TroyFumagalli for his ceremonial first pitch at the #BrewersOpen…
+ Created on Mon Apr 02 19:18:21 +0000 2018
+
+Tweet 14: RT @guardian: How did we let modern slavery become part of our everyday lives? | Felicity Lawrence https://t.co/y80OKKFueO
+ Created on Mon Apr 02 19:18:14 +0000 2018
+
+Tweet 15: RT @BBCWorld: David Warner apologises for his part in the ball-tampering scandal and says he has a "tiny ray of hope" he might play for Aus…
+ Created on Mon Apr 02 19:16:13 +0000 2018
+
+Tweet 16: RT @nytimes: The "affluenza teen," who killed 4 people while driving drunk and then fled to Mexico in an effort to evade possible jail time…
+ Created on Mon Apr 02 19:15:28 +0000 2018
+
+Tweet 17: RT @BBCWorld: The graveyard of VW cars... ⚰️ https://t.co/EE9Kw1y1xP
+ Created on Mon Apr 02 19:15:24 +0000 2018
+
+Tweet 18: RT @guardian: Exclusive: #PayMeToo campaign launched to close gender pay gap https://t.co/JwSsSwDzwW
+ Created on Mon Apr 02 19:15:15 +0000 2018
+
+Tweet 19: RT @jimmyfallon: Happy Easter!!!
+ Created on Mon Apr 02 19:14:02 +0000 2018
+
+Tweet 20: practice tweet
+ Created on Thu Mar 29 22:48:37 +0000 2018
