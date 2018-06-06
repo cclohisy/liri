@@ -78,3 +78,276 @@ Tweet 19: RT @jimmyfallon: Happy Easter!!!
 
 Tweet 20: practice tweet
  Created on Thu Mar 29 22:48:37 +0000 2018
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Song title: Snap Out Of It, Album: AM, Artist: Arctic Monkeys, Preview Song: https://p.scdn.co/mp3-preview/0681dc5d4a0df801963bbe4fa7fe0591dd56e174?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Sixteen Candles, Rating: PG, Released in 1984, Language: English, Filmed in USA, Plot: A girl's "sweet" sixteenth birthday becomes anything but special, as she suffers from every embarrassment possible., Actors: Molly Ringwald, Justin Henry, Michael Schoeffling, Haviland Morris, IMDB rating 7.1/10, Rotten Tomatoes rating 86%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Forgetting Sarah Marshall, Rating: R, Released in 2008, Language: English, Hawaiian, German, Japanese, Filmed in USA, Plot: Devastated Peter takes a Hawaiian vacation in order to deal with the recent break-up with his TV star girlfriend, Sarah. Little does he know, Sarah's traveling to the same resort as her ex - and she's bringing along her new boyfriend., Actors: Jason Segel, Kristen Bell, Mila Kunis, Russell Brand, IMDB rating 7.2/10, Rotten Tomatoes rating 85%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Song title: Winter Song, Album: The Head and the Heart, Artist: The Head and the Heart, Preview Song: https://p.scdn.co/mp3-preview/8bf0f420948d46e6f4369aa8bdcad49730764996?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Forgetting Sarah Marshall, Rating: R, Released in 2008, Language: English, Hawaiian, German, Japanese, Filmed in USA, Plot: Devastated Peter takes a Hawaiian vacation in order to deal with the recent break-up with his TV star girlfriend, Sarah. Little does he know, Sarah's traveling to the same resort as her ex - and she's bringing along her new boyfriend., Actors: Jason Segel, Kristen Bell, Mila Kunis, Russell Brand, IMDB rating 7.2/10, Rotten Tomatoes rating 85%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Song title: Snap Out Of It, Album: AM, Artist: Arctic Monkeys, Preview Song: https://p.scdn.co/mp3-preview/0681dc5d4a0df801963bbe4fa7fe0591dd56e174?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Song title: Snap Out Of It, Album: AM, Artist: Arctic Monkeys, Preview Song: https://p.scdn.co/mp3-preview/0681dc5d4a0df801963bbe4fa7fe0591dd56e174?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Song title: Snap Out Of It, Album: AM, Artist: Arctic Monkeys, Preview Song: https://p.scdn.co/mp3-preview/0681dc5d4a0df801963bbe4fa7fe0591dd56e174?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Dazed and Confused, Rating: R, Released in 1993, Language: English, Filmed in USA, Plot: The adventures of high school and junior high students on the last day of school in May 1976., Actors: Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews, IMDB rating 7.7/10, Rotten Tomatoes rating 94%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Forgetting Sarah Marshall, Rating: R, Released in 2008, Language: English, Hawaiian, German, Japanese, Filmed in USA, Plot: Devastated Peter takes a Hawaiian vacation in order to deal with the recent break-up with his TV star girlfriend, Sarah. Little does he know, Sarah's traveling to the same resort as her ex - and she's bringing along her new boyfriend., Actors: Jason Segel, Kristen Bell, Mila Kunis, Russell Brand, IMDB rating 7.2/10, Rotten Tomatoes rating 85%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Dazed and Confused, Rating: R, Released in 1993, Language: English, Filmed in USA, Plot: The adventures of high school and junior high students on the last day of school in May 1976., Actors: Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews, IMDB rating 7.7/10, Rotten Tomatoes rating 94%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Forgetting Sarah Marshall, Rating: R, Released in 2008, Language: English, Hawaiian, German, Japanese, Filmed in USA, Plot: Devastated Peter takes a Hawaiian vacation in order to deal with the recent break-up with his TV star girlfriend, Sarah. Little does he know, Sarah's traveling to the same resort as her ex - and she's bringing along her new boyfriend., Actors: Jason Segel, Kristen Bell, Mila Kunis, Russell Brand, IMDB rating 7.2/10, Rotten Tomatoes rating 85%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Dazed and Confused, Rating: R, Released in 1993, Language: English, Filmed in USA, Plot: The adventures of high school and junior high students on the last day of school in May 1976., Actors: Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews, IMDB rating 7.7/10, Rotten Tomatoes rating 94%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: spotify-this-song via+chicago+wilco
+Results: 
+Song title: Via Chicago, Album: Summerteeth, Artist: Wilco, Preview Song: https://p.scdn.co/mp3-preview/7a9470d942d16989e911ebc6f5ff1d614d04ad0e?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Dazed and Confused, Rating: R, Released in 1993, Language: English, Filmed in USA, Plot: The adventures of high school and junior high students on the last day of school in May 1976., Actors: Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews, IMDB rating 7.7/10, Rotten Tomatoes rating 94%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Song title: Los Ageless, Album: MASSEDUCTION, Artist: St. Vincent, Preview Song: null
+______________________________________
+Command chosen: my-tweets
+My Last 20 Tweets
+
+Tweet 1: RT @StephenAtHome: I know Mueller’s busy but…
+https://t.co/0InGMZDM2M
+ Created on Mon Apr 02 21:49:46 +0000 2018
+
+Tweet 2: Homework is done! https://t.co/1sN9nLfPOZ
+ Created on Mon Apr 02 21:47:45 +0000 2018
+
+Tweet 3: Hi Matt! https://t.co/4gpR8i0xPc
+ Created on Mon Apr 02 21:47:10 +0000 2018
+
+Tweet 4: Hi Rory! https://t.co/eKRla2rKwX
+ Created on Mon Apr 02 21:45:54 +0000 2018
+
+Tweet 5: RT @BBCBreaking: The junk is down. The remains of an eight-tonne defunct Chinese space lab have come down over the South Pacific https://t.…
+ Created on Mon Apr 02 21:18:56 +0000 2018
+
+Tweet 6: RT @nytimes: Kim Jong-un attended a K-pop concert. He clapped. He smiled. He even shook hands with members of the popular girl group Red Ve…
+ Created on Mon Apr 02 21:09:36 +0000 2018
+
+Tweet 7: RT @nytimes: A 77-year-old who owns an estimated 75 guns: "It'll go away. Like all the other times."
+A 17-year-old: "They’re looking for us…
+ Created on Mon Apr 02 19:51:22 +0000 2018
+
+Tweet 8: RT @guardian: I worked for Vote Leave. We need another referendum on Brexit’s terms | Dami Olatuyi https://t.co/aqjzyLoDzM
+ Created on Mon Apr 02 19:51:19 +0000 2018
+
+Tweet 9: RT @guardian: AggregateIQ: the obscure Canadian tech firm and the Brexit data riddle https://t.co/Omz1J9jr6l
+ Created on Mon Apr 02 19:38:00 +0000 2018
+
+Tweet 10: RT @nytimes: How $1 flows from Spotify to recording artists https://t.co/y8h5EYWH5v https://t.co/VcJ4hCtJEQ
+ Created on Mon Apr 02 19:37:44 +0000 2018
+
+Tweet 11: RT @BBCWorld: Inside the armoured green train used by Kim Jong-un on his trip to China https://t.co/C7djAnrGEC
+ Created on Mon Apr 02 19:20:03 +0000 2018
+
+Tweet 12: RT @guardian: The unstoppable rise of veganism: how a fringe movement went mainstream https://t.co/GklhH5lRPn
+ Created on Mon Apr 02 19:18:38 +0000 2018
+
+Tweet 13: RT @BadgerFootball: FUUUUUUUUM‼️⚾️🔥
+
+“I let it rip.” What grade we giving @TroyFumagalli for his ceremonial first pitch at the #BrewersOpen…
+ Created on Mon Apr 02 19:18:21 +0000 2018
+
+Tweet 14: RT @guardian: How did we let modern slavery become part of our everyday lives? | Felicity Lawrence https://t.co/y80OKKFueO
+ Created on Mon Apr 02 19:18:14 +0000 2018
+
+Tweet 15: RT @BBCWorld: David Warner apologises for his part in the ball-tampering scandal and says he has a "tiny ray of hope" he might play for Aus…
+ Created on Mon Apr 02 19:16:13 +0000 2018
+
+Tweet 16: RT @nytimes: The "affluenza teen," who killed 4 people while driving drunk and then fled to Mexico in an effort to evade possible jail time…
+ Created on Mon Apr 02 19:15:28 +0000 2018
+
+Tweet 17: RT @BBCWorld: The graveyard of VW cars... ⚰️ https://t.co/EE9Kw1y1xP
+ Created on Mon Apr 02 19:15:24 +0000 2018
+
+Tweet 18: RT @guardian: Exclusive: #PayMeToo campaign launched to close gender pay gap https://t.co/JwSsSwDzwW
+ Created on Mon Apr 02 19:15:15 +0000 2018
+
+Tweet 19: RT @jimmyfallon: Happy Easter!!!
+ Created on Mon Apr 02 19:14:02 +0000 2018
+
+Tweet 20: practice tweet
+ Created on Thu Mar 29 22:48:37 +0000 2018
+______________________________________
+Command chosen: spotify-this-song feeling+22
+Results: 
+Song title: Feeling Your Wave, Album: FrankJavCee, Vol 2.2, Artist: FrankJavCee, Preview Song: https://p.scdn.co/mp3-preview/432fcc9e07ad9b3de9fe0cbc59b588a2bfcf2665?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: spotify-this-song feeling+22+taylor+swift
+Results: 
+Song title: 22 (Origionally Performed by Taylor Swift) [Karaoke Version], Album: 22 (I'm Feeling), Artist: Radio Hitz, Preview Song: https://p.scdn.co/mp3-preview/d9508588a6f13c734429800ec980cc9a6a03b649?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: spotify-this-song red
+Results: 
+Song title: Red Roses (feat. Landon Cube), Album: Red Roses (feat. Landon Cube), Artist: Lil Skies, Preview Song: https://p.scdn.co/mp3-preview/3b53f0b1a01f46948bffeeac7c18182a5913c97b?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: spotify-this-song picture+to+burn
+Results: 
+Song title: Picture To Burn, Album: Taylor Swift, Artist: Taylor Swift, Preview Song: null
+______________________________________
+Command chosen: movie-this alot+like+love
+Results: 
+______________________________________
+Command chosen: movie-this a+lot+like+love
+Results: 
+Movie: A Lot Like Love, Rating: PG-13, Released in 2005, Language: English, American Sign Language, Filmed in USA, Plot: On a flight from Los Angeles to New York, Oliver and Emily make a connection, only to decide that they are poorly suited to be together. Over the next seven years, however, they are ..., Actors: Amanda Peet, Ashton Kutcher, Taryn Manning, Aimee Garcia, IMDB rating 6.6/10, Rotten Tomatoes rating 41%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Song title: Snap Out Of It, Album: AM, Artist: Arctic Monkeys, Preview Song: https://p.scdn.co/mp3-preview/0681dc5d4a0df801963bbe4fa7fe0591dd56e174?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Sixteen Candles, Rating: PG, Released in 1984, Language: English, Filmed in USA, Plot: A girl's "sweet" sixteenth birthday becomes anything but special, as she suffers from every embarrassment possible., Actors: Molly Ringwald, Justin Henry, Michael Schoeffling, Haviland Morris, IMDB rating 7.1/10, Rotten Tomatoes rating 86%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Sixteen Candles, Rating: PG, Released in 1984, Language: English, Filmed in USA, Plot: A girl's "sweet" sixteenth birthday becomes anything but special, as she suffers from every embarrassment possible., Actors: Molly Ringwald, Justin Henry, Michael Schoeffling, Haviland Morris, IMDB rating 7.1/10, Rotten Tomatoes rating 86%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Love Actually, Rating: R, Released in 2003, Language: English, Portuguese, French, Filmed in UK, USA, France, Plot: Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England., Actors: Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth, IMDB rating 7.6/10, Rotten Tomatoes rating 63%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Dazed and Confused, Rating: R, Released in 1993, Language: English, Filmed in USA, Plot: The adventures of high school and junior high students on the last day of school in May 1976., Actors: Jason London, Joey Lauren Adams, Milla Jovovich, Shawn Andrews, IMDB rating 7.7/10, Rotten Tomatoes rating 94%
+______________________________________
+Command chosen: my-tweets
+My Last 20 Tweets
+
+Tweet 1: RT @StephenAtHome: I know Mueller’s busy but…
+https://t.co/0InGMZDM2M
+ Created on Mon Apr 02 21:49:46 +0000 2018
+
+Tweet 2: Homework is done! https://t.co/1sN9nLfPOZ
+ Created on Mon Apr 02 21:47:45 +0000 2018
+
+Tweet 3: Hi Matt! https://t.co/4gpR8i0xPc
+ Created on Mon Apr 02 21:47:10 +0000 2018
+
+Tweet 4: Hi Rory! https://t.co/eKRla2rKwX
+ Created on Mon Apr 02 21:45:54 +0000 2018
+
+Tweet 5: RT @BBCBreaking: The junk is down. The remains of an eight-tonne defunct Chinese space lab have come down over the South Pacific https://t.…
+ Created on Mon Apr 02 21:18:56 +0000 2018
+
+Tweet 6: RT @nytimes: Kim Jong-un attended a K-pop concert. He clapped. He smiled. He even shook hands with members of the popular girl group Red Ve…
+ Created on Mon Apr 02 21:09:36 +0000 2018
+
+Tweet 7: RT @nytimes: A 77-year-old who owns an estimated 75 guns: "It'll go away. Like all the other times."
+A 17-year-old: "They’re looking for us…
+ Created on Mon Apr 02 19:51:22 +0000 2018
+
+Tweet 8: RT @guardian: I worked for Vote Leave. We need another referendum on Brexit’s terms | Dami Olatuyi https://t.co/aqjzyLoDzM
+ Created on Mon Apr 02 19:51:19 +0000 2018
+
+Tweet 9: RT @guardian: AggregateIQ: the obscure Canadian tech firm and the Brexit data riddle https://t.co/Omz1J9jr6l
+ Created on Mon Apr 02 19:38:00 +0000 2018
+
+Tweet 10: RT @nytimes: How $1 flows from Spotify to recording artists https://t.co/y8h5EYWH5v https://t.co/VcJ4hCtJEQ
+ Created on Mon Apr 02 19:37:44 +0000 2018
+
+Tweet 11: RT @BBCWorld: Inside the armoured green train used by Kim Jong-un on his trip to China https://t.co/C7djAnrGEC
+ Created on Mon Apr 02 19:20:03 +0000 2018
+
+Tweet 12: RT @guardian: The unstoppable rise of veganism: how a fringe movement went mainstream https://t.co/GklhH5lRPn
+ Created on Mon Apr 02 19:18:38 +0000 2018
+
+Tweet 13: RT @BadgerFootball: FUUUUUUUUM‼️⚾️🔥
+
+“I let it rip.” What grade we giving @TroyFumagalli for his ceremonial first pitch at the #BrewersOpen…
+ Created on Mon Apr 02 19:18:21 +0000 2018
+
+Tweet 14: RT @guardian: How did we let modern slavery become part of our everyday lives? | Felicity Lawrence https://t.co/y80OKKFueO
+ Created on Mon Apr 02 19:18:14 +0000 2018
+
+Tweet 15: RT @BBCWorld: David Warner apologises for his part in the ball-tampering scandal and says he has a "tiny ray of hope" he might play for Aus…
+ Created on Mon Apr 02 19:16:13 +0000 2018
+
+Tweet 16: RT @nytimes: The "affluenza teen," who killed 4 people while driving drunk and then fled to Mexico in an effort to evade possible jail time…
+ Created on Mon Apr 02 19:15:28 +0000 2018
+
+Tweet 17: RT @BBCWorld: The graveyard of VW cars... ⚰️ https://t.co/EE9Kw1y1xP
+ Created on Mon Apr 02 19:15:24 +0000 2018
+
+Tweet 18: RT @guardian: Exclusive: #PayMeToo campaign launched to close gender pay gap https://t.co/JwSsSwDzwW
+ Created on Mon Apr 02 19:15:15 +0000 2018
+
+Tweet 19: RT @jimmyfallon: Happy Easter!!!
+ Created on Mon Apr 02 19:14:02 +0000 2018
+
+Tweet 20: practice tweet
+ Created on Thu Mar 29 22:48:37 +0000 2018
