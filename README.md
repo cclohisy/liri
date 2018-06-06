@@ -4,10 +4,10 @@
 LIRI (Language Interpretation and Recognition Interface) is a command line node app that takes in parameters and gives you back data. This version allows the user to search tweets, songs, and movies. As the user enters different commands, the command and resulting data are logged in a log.txt file. 
 
 ## Installation
-1. Clone repo.
+1. Clone repository.
 1. Install Node dependencies
     1. Run following command in Terminal/Bash: 
-`\n npm install`
+`npm install`
 
 ## How Does it Work? 
 ### Twiter
@@ -17,7 +17,7 @@ To display recent tweets run the following into Terminal/Bash:
 
 ### Spotify
 To search for specific song information type the following into Terminal/Bash: 
-`node liri.js spotify-this-song <song name here>`
+`node liri.js spotify-this-song song name`
 * This command will display the following: 
     * Song Title
     * Album
@@ -26,7 +26,7 @@ To search for specific song information type the following into Terminal/Bash:
 
 ### OMDB Movie Search
 To search for specific movie information type the following into Terminal/Bash: 
-`node liri.js movie-this <movie name here>`
+`node liri.js movie-this movie name`
 * This command will display the following:
     * Movie Title
     * Rating
