@@ -351,3 +351,26 @@ Tweet 19: RT @jimmyfallon: Happy Easter!!!
 
 Tweet 20: practice tweet
  Created on Thu Mar 29 22:48:37 +0000 2018
+______________________________________
+Command chosen: spotify-this-song <song name here>
+Results: 
+Song title: Insert Song Name Here, Album: Metal on the Inside, Vol. 2, Artist: Tim Johnston, Preview Song: https://p.scdn.co/mp3-preview/703e6e4f1aeb3f21185e4717fe5ee1d4404bbed3?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: spotify-this-song <song name here>
+Results: 
+Song title: Insert Song Name Here, Album: Metal on the Inside, Vol. 2, Artist: Tim Johnston, Preview Song: https://p.scdn.co/mp3-preview/703e6e4f1aeb3f21185e4717fe5ee1d4404bbed3?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: spotify-this-song history+starts+now
+Results: 
+______________________________________
+Command chosen: spotify-this-song i+like+it
+Results: 
+Song title: I Like It, Album: Invasion of Privacy, Artist: Cardi B, Preview Song: https://p.scdn.co/mp3-preview/0f8734f51bb0a419959fdad3a0852621f9e6bc89?cid=791025b30b2240b0bffe39604df17de8
+______________________________________
+Command chosen: movie-this holes
+Results: 
+Movie: Holes, Rating: PG, Released in 2003, Language: English, Filmed in USA, Plot: A wrongfully convicted boy is sent to a brutal desert detention camp where he joins the job of digging holes for some mysterious reason., Actors: Sigourney Weaver, Jon Voight, Tim Blake Nelson, Shia LaBeouf, IMDB rating 7.1/10, Rotten Tomatoes rating 78%
+______________________________________
+Command chosen: do-what-it-says 
+Results:
+Movie: Forgetting Sarah Marshall, Rating: R, Released in 2008, Language: English, Hawaiian, German, Japanese, Filmed in USA, Plot: Devastated Peter takes a Hawaiian vacation in order to deal with the recent break-up with his TV star girlfriend, Sarah. Little does he know, Sarah's traveling to the same resort as her ex - and she's bringing along her new boyfriend., Actors: Jason Segel, Kristen Bell, Mila Kunis, Russell Brand, IMDB rating 7.2/10, Rotten Tomatoes rating 85%
