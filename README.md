@@ -5,7 +5,7 @@ LIRI (Language Interpretation and Recognition Interface) is a command line node 
 ## How Does it Work? 
 ### Twiter
 To display recent tweets type the following into the command line. 
-'node liri.js my-tweets' 
+`node liri.js my-tweets`
 * This command will show the last 20 tweets associated with my twitter account and the date they were tweeted.
 
 ### Spotify
